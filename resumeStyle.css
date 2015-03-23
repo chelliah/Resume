@@ -14,15 +14,28 @@ h1 {
 
 h2 {
 	font-size: 36px;
+	font-family: Helvetica, Arial, sans-serif;
 	line-height: 10%;
 }
 
 h3{
+	text-indent: 5px;
+	padding-top: 5px;
 	line-height: 15%;
 }
 
 h4{
+	text-indent: 10px;
 	line-height: 15%
+}
+
+h5{
+	text-indent: 10px;
+	line-height: 15%;
+}
+
+h6{
+	text-indent: 10px;
 }
 
 div {
