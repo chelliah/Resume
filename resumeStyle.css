@@ -1,0 +1,65 @@
+body {
+	font-family: "Helvetica";
+	color:#dddddd;
+	background-color: #CCCCFF;
+
+}
+
+h1 {
+	font-size: 48px;
+	font-family: Helvetica, Arial, sans-serif;
+	color:#ffffff;
+	line-height: 10%;
+}
+
+h2 {
+	font-size: 36px;
+	line-height: 10%;
+}
+
+h3{
+	line-height: 15%;
+}
+
+h4{
+	line-height: 15%
+}
+
+div {
+	border-radius: 5px;
+}
+
+#email {
+	display: inline;
+}
+
+#content-info {
+	padding: 5px;
+	margin: 5px;
+	background-color: #666699;
+}
+
+#content-professional{
+	padding: 5px;
+	margin: 5px;
+	background-color: #666699;
+}
+
+#content-education{
+	padding: 5px;
+	margin: 5px;
+	background-color: #666699;
+}
+
+#content-experience{
+	padding: 5px;
+	margin: 5px;
+	background-color: #666699;
+}
+
+#content-references{
+	padding: 5px;
+	margin: 5px;
+	background-color: #666699;
+}
+
